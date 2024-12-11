@@ -34,3 +34,24 @@
   width: 5rem;
   border-radius: 15px;
 }
+section{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/***home***/
+
+#home{
+  background: linear-gradient(rgba(0,0,0,0)) wheat;
+  background-size: cover;
+  background-position: center;
+}
+#home h1{
+  font-size: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:black;
+  letter-spacing: 3px;
+}
